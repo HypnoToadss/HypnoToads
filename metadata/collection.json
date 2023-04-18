@@ -1,9 +1,7 @@
 {
+  "image": "https://s3.coinmarketcap.com/static/img/portraits/6304d4f7dcf54d0fb59743ba.png",
   "name": "tessssst",
   "description": "descrrrrrr",
-  "image": "https://s3.coinmarketcap.com/static/img/portraits/6304d4f7dcf54d0fb59743ba.png",
-  "cover_image": "https://s3.coinmarketcap.com/static/img/portraits/6304d4f7dcf54d0fb59743ba.png",
-  "social_links": [
-    "https://t.me/tsstststststststtsts"
-  ]
+  "social_links": [],
+  "marketplace": "getgems.io"
 }
